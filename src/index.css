@@ -1,0 +1,82 @@
+
+.custom {
+  background-color: gainsboro;
+  padding: 10px;
+}
+
+.counter-main {
+  text-align: center;
+  font-size: 40px;
+}
+
+.btn-1 {
+  background-color: #4caf50;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px;
+  cursor: pointer;
+  max-width: 100px;
+  width: 70%;
+}
+
+.btn-2 {
+  background-color: #e70f0c;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px;
+  cursor: pointer;
+  max-width: 100px;
+  width: 70%;
+}
+
+.btn-3 {
+  background-color: #e39e0a;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 10px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px;
+  cursor: pointer;
+  max-width: 100px;
+  width: 70%;
+}
+
+.input {
+  padding: 10px 10px;
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 10px;
+
+}
+
+.btn-1:hover {
+  background-color: #27a682;
+  transform: scale(1.05);
+}
+
+.btn-2:hover {
+  background-color: #f66928;
+  transform: scale(1.05);
+}
+
+.btn-3:hover {
+  background-color: #9b7421;
+  transform: scale(1.05)
+}
+
